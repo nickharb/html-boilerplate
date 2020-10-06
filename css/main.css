@@ -1,0 +1,37 @@
+/**
+ * HTML Boilerplate
+ *
+ * Copyright 2020 Seven Mile Media
+ * Created by Seven Mile Media
+ * http://sevenmilemedia.com/
+ */
+
+/* ==========================================================================
+    Base styles
+   ========================================================================== */
+
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+/* ==========================================================================
+    Media query examples
+   ========================================================================== */
+
+@media only screen and (min-width: 480px) {
+    /* Mobile */
+}
+
+@media only screen and (min-width: 768px) {
+    /* Tablet */
+}
+
+@media only screen and (min-width: 1024px) {
+    /* Laptop */
+}
+
+
+
+
